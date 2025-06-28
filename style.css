@@ -1,0 +1,10 @@
+body {
+    /* цвет фона */
+    background-color: rgb(17, 23, 31);
+    /* цвет текста */
+    color: rgb(104, 201, 226);
+    /* шрифт */
+    font-family: Verdana;
+    /* выравнивание текста */
+    text-align: center;
+}
